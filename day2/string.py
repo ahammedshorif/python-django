@@ -7,3 +7,5 @@ print(str1[4:]) # print 4 index to last index char
 
 print(str1.capitalize())
 print(str1.upper())
+print(str1.swapcase())
+print(str1.lower())
